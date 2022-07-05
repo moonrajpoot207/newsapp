@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news-uk",
+          "name": "Google News (UK)"
+        },
+        "author": null,
+        "title": "Politics latest news: Rishi Sunak tells the rich to give £400 energy grant to charity",
+        "description": "Rishi Sunak has suggested wealthy people who do not need financial assistance from the Government to pay their rising energy bills should donate a new &pound;400 handout to charity.",
+        "url": "https://www.telegraph.co.uk/politics/2022/05/27/boris-johnson-rishi-sunak-windfall-tax-energy-bills-partygate/",
+        "urlToImage": "https://www.telegraph.co.uk/content/dam/politics/2022/05/27/TELEMMGLPICT000297684813_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay",
+        "publishedAt": "2022-05-27T09:10:52+00:00",
+        "content": "Rishi Sunak, the Chancellor, said that if wealthy households do not need the Government's £400 energy bill grant they should donate it to charity - and that is what he will be doing. \r\nMr Sunak was a… [+1149 chars]"
+      },
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": null,
+        "title": "FRIDAY BRIEFING | The politics of urine: Stellenbosch under siege 28 years after apartheid",
+        "description": "We are once again dealing with the politics of urine, and questioning whether, after 28 years of democracy, if there ever will be social cohesion.",
+        "url": "https://www.news24.com/news24/Opinions/FridayBriefing/friday-briefing-the-politics-of-urine-stellenbosch-under-siege-28-years-after-apartheid-20220527",
+        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3418/29132bc2963946f287fa94453b278222.jpg",
+        "publishedAt": "2022-05-27T05:00:35+00:00",
+        "content": "The politics of urine: Stellenbosch under siege 28 years after apartheid\r\nAs I walked into the newsroom, where I worked at the time, in 2008, I could see a group huddled around a colleague's computer… [+4417 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news-au",
+          "name": "Google News (Australia)"
+        },
+        "author": "David Crowe, Alex Ellinghausen",
+        "title": "Six days that changed everything for Albanese: His first week as prime minister in photos",
+        "description": "One of the most frenetic weeks in Australian politics was captured by Alex Ellinghausen, our Canberra photographer.",
+        "url": "https://www.smh.com.au/politics/federal/the-six-days-that-changed-everything-for-albanese-his-first-week-as-prime-minister-in-photos-20220527-p5aozh.html",
+        "urlToImage": "https://static.ffx.io/images/$zoom_1.7685%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/t_smh_no_label_no_age_social_wm/3905787be13ee14f46924326bb257b46c8c39801",
+        "publishedAt": "2022-05-27T03:37:47+00:00",
+        "content": "Normal text sizeLarger text sizeVery large text size\r\nSix days can change everything. On Saturday night, Anthony Albanese cooked pasta for friends at his home in the Sydney suburb of Marrickville wit… [+8772 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news-in",
+          "name": "Google News (India)"
+        },
+        "author": "Poornima Murali",
+        "title": "In An Air of Cordiality, Sharp-edged Politics on Display in PM Modi’s Chennai Visit",
+        "description": "With the AIADMK in a significantly reduced state and the BJP just gaining some traction, Tamil Nadu's ruling DMK has been strident over the last year politically",
+        "url": "https://www.news18.com/news/politics/in-an-air-of-cordiality-sharp-edged-politics-on-display-in-pm-modis-chennai-visit-5255821.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/05/narendra-modi-and-mk-stalin-165362005616x9.jpg",
+        "publishedAt": "2022-05-27T03:30:00+00:00",
+        "content": "When Prime Minister Narendra Modi landed in Chennai on Thursday for his first visit since MK Stalin took over as chief minister, the most-asked question was, will #GoBackModi trend upon his arrival? … [+3153 chars]"
+      },
+      {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Charles C. W. Cooke",
+        "title": "Biden’s Covid Policy Is Incoherent — but That’s Politics",
+        "description": "It sure as hell isn’t leadership.",
+        "url": "https://www.nationalreview.com/2022/05/bidens-covid-policy-is-incoherent-but-thats-politics/?utm_source=recirc-%5BSCREENSIZE%5D&#038;utm_medium=homepage&#038;utm_campaign=hero&#038;utm_content=related&#038;utm_term=second",
+        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/05/joe-biden-covid.jpg?fit=2057%2C1200",
+        "publishedAt": "2022-05-23T22:04:39Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": null,
+        "title": "Daily Briefing",
+        "description": "The day's top stories, from sports to movies to politics to world events.",
+        "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+        "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+        "publishedAt": "2021-08-15T15:35:07+00:00",
+        "content": "The day's top stories, from sports to movies to politics to world events."
+      },
+      {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "author": "The Washington Times http://www.washingtontimes.com",
+        "title": "Latest Quizzes",
+        "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+        "url": "https://www.washingtontimes.com/quiz/",
+        "urlToImage": null,
+        "publishedAt": "2021-02-10T03:52:37.2719772Z",
+        "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+      },
+      {
+        "source": {
+          "id": "the-jerusalem-post",
+          "name": "The Jerusalem Post"
+        },
+        "author": null,
+        "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+        "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+        "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+        "publishedAt": "2019-11-13T04:41:00Z",
+        "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+      }
+    ]
+  }
